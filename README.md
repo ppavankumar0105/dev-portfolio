@@ -1,2 +1,3 @@
-# dev-portfolio
-Software Engineering Portfolio (Java, Python, React, DevOps)
+# Python RAG Support Bot
+
+Simple FastAPI skeleton for RAG bot.
